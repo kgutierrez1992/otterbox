@@ -55,9 +55,7 @@ a {
   flex-direction: column;
 }
 
-.thumbnail-item + .thumbnail-item { 
-  margin-top: 10px;
-}
+
 
 .thumbnail-item {
   display: inline-block;
@@ -117,6 +115,6 @@ a {
   left: 4px;
   font-family: airstreamregular;
   color: white;
-  text-shadow: rgba(0, 0, 0, 0.9) 10px 20px 7px;
-  font-size: 50px;
+  text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
+  font-size: 40px;
 }
